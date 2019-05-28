@@ -13,5 +13,6 @@ pod 'Firebase/Database'
 pod 'Firebase/Storage'
 pod 'FBSDKCoreKit'
 pod 'FBSDKLoginKit'
+pod 'SDWebImage'
 
 end
